@@ -1,0 +1,37 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+.env
+
+# --- Data Files ---
+gw.csv
+FREDMD.csv
+USREC.csv
+
+# general data file
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+
+
+# !results_comparison.csv
+
+# --- IDE / Editor Settings ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
