@@ -35,3 +35,7 @@ Thumbs.db
 
 # --- Jupyter Notebooks ---
 .ipynb_checkpoints
+
+
+# Claude Code settings
+.claude*
